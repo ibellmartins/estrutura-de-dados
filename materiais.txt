@@ -1,0 +1,6 @@
+00000;lapis de cor;3.50;60
+11111;caderno;40.00;300
+22222;stabilo; 21.30;500
+33333;maca-texto;2.50;700
+44444;canetinha;20.50;90
+55555;papel canson;10.30;100
